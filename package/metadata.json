@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "luisbocanegra17b@gmail.com",
+                "Name": "Luis Bocanegra"
+            }
+        ],
+        "BugReportUrl": "https://github.com/luisbocanegra/plasma-simple-window-buttons/issues",
+        "Category": "System Information",
+        "Description": "QML only alternative to psifidotos Window buttons widget",
+        "Id": "luisbocanegra.simple.window.buttons",
+        "Icon":"window-close-symbolic",
+        "License": "GPL-3.0",
+        "Name": "Simple window buttons",
+        "Version": "0.1.0",
+        "Website": "https://github.com/luisbocanegra/plasma-simple-window-buttons"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
